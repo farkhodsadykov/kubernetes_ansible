@@ -12,7 +12,7 @@ cd kubernetes_ansible
 ### Creating ssh-key and copy to (DigitalOcean)
 
 Connect to Ansible Server and create ssh-key
-![](https://github.com/farkhodsadykov/kubernetes_ansible/blob/master/Pictures/Screen%20Shot%202018-10-23%20at%206.13.20%20AM.png)
+![](https://github.com/farkhodsadykov/kubernetes_ansible/blob/master/Pictures/Screen%20Shot%202018-10-23%20at%206.12.59%20AM.png)
 
 Copy Ansible Server's public key
 ![](https://github.com/farkhodsadykov/kubernetes_ansible/blob/master/Pictures/Screen%20Shot%202018-10-23%20at%206.13.20%20AM.png)
